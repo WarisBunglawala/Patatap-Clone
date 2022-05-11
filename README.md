@@ -23,4 +23,4 @@ play around and be a DJ :)
 ### Demo
 
 <p align="centre">Demo video can be found in the same GitHub repo</p>
-<a herf="Patatap Video.mp4">Demo Video</a>
+[Patatap-Clone/Patatap Video](Patatap Video.mp4)
