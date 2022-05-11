@@ -22,5 +22,4 @@ play around and be a DJ :)
 
 ### Demo
 
-<p align="centre">Demo video can be found in the same GitHub repo</p>
-[Patatap-Clone/Patatap Video](https://github.com/WarisBunglawala/Patatap-Clone/blob/885dd8b8e6589aa863365bc88d2ae9a5975b2be3/Patatap%20Video.mp4)
+<p align="centre">Demo video can be found in the same GitHub repo "Patatap Video.mp4"</p>
